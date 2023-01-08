@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Anju Priya - Web Developer
 
+ 
+ <img src="https://komarev.com/ghpvc/?username=anjupriya-v&label=Profile%20views&color=0e75b6&style=flat" alt="Anju Priya V" />
+ 
 - 🎓 Current final year student at CIT
 - 💻 I'm interested in Coding and web development...
 - 😀 Favorite Language is Java
