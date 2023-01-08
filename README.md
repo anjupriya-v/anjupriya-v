@@ -7,6 +7,15 @@
 - 💞️ Love to build Websites...
 - 🤩 My hobbies - Art journaling and Quotes Writing.
 
+
+### Coding Profiles:
+<a href='https://auth.geeksforgeeks.org/user/anjupriyachennai/'><img align="left" alt="GeeksForGeeks" width="30px" src="https://user-images.githubusercontent.com/84177086/211202360-ce770ab5-2fdd-4afb-bcc1-a10794f6003b.png" style="padding-right:10px;" /></a>
+<a href='https://leetcode.com/anjupriya_v/'><img align="left" alt="Leetcode" width="35px" src="https://user-images.githubusercontent.com/84177086/211202077-ba4ed37a-198b-4d98-a080-a63e1eacd03b.png" style="padding-right:10px;" /></a>
+<a href='https://www.codingninjas.com/codestudio/profile/80e1c47f-d5f5-4397-9c78-d571f9c3b983'><img align="left" alt="CodeStudio" width="32px" src="https://user-images.githubusercontent.com/84177086/211202159-a4553106-0bac-4562-95ba-0f8f44693def.png" style="padding-right:10px;" /></a>
+<a href='https://www.hackerrank.com/anjupriyachennai'><img align="left" alt="HackerRank" width="32px" src="https://user-images.githubusercontent.com/84177086/211202196-3ad1a6bb-9ef6-41aa-a023-4e47f141109c.png" style="padding-right:10px;" /></a>
+<br />
+<br />
+
 ### Connect with me:
 <a href='https://www.linkedin.com/in/anju-priya-v-90169a18b'><img align="left" alt="LinkedIn" width="30px" src="https://user-images.githubusercontent.com/84177086/211198667-e157c82d-144e-454c-93e5-1520f1bf1fc2.png" style="padding-right:10px;" /></a>
 <a href='https://www.quora.com/profile/Anju-Priya-V-1'><img align="left" alt="Quora" width="35px" src="https://user-images.githubusercontent.com/84177086/211198709-ec40cabc-752a-4c9f-8cf2-9a10d3346bd2.png" style="padding-right:10px;" /></a>
@@ -36,14 +45,6 @@
 
 <img  alt="Anju Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 
-
-### Coding Profiles:
-<a href='https://auth.geeksforgeeks.org/user/anjupriyachennai/'><img align="left" alt="GeeksForGeeks" width="30px" src="https://user-images.githubusercontent.com/84177086/211202360-ce770ab5-2fdd-4afb-bcc1-a10794f6003b.png" style="padding-right:10px;" /></a>
-<a href='https://leetcode.com/anjupriya_v/'><img align="left" alt="Leetcode" width="35px" src="https://user-images.githubusercontent.com/84177086/211202077-ba4ed37a-198b-4d98-a080-a63e1eacd03b.png" style="padding-right:10px;" /></a>
-<a href='https://www.codingninjas.com/codestudio/profile/80e1c47f-d5f5-4397-9c78-d571f9c3b983'><img align="left" alt="CodeStudio" width="32px" src="https://user-images.githubusercontent.com/84177086/211202159-a4553106-0bac-4562-95ba-0f8f44693def.png" style="padding-right:10px;" /></a>
-<a href='https://www.hackerrank.com/anjupriyachennai'><img align="left" alt="HackerRank" width="32px" src="https://user-images.githubusercontent.com/84177086/211202196-3ad1a6bb-9ef6-41aa-a023-4e47f141109c.png" style="padding-right:10px;" /></a>
-<br />
-<br />
 
 ### GitHub Stats
   <img  alt="Anju Priya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
