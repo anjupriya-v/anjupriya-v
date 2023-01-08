@@ -25,7 +25,7 @@
 <a href='https://www.quora.com/profile/Anju-Priya-V-1'><img align="left" alt="Quora" width="35px" src="https://user-images.githubusercontent.com/84177086/211198709-ec40cabc-752a-4c9f-8cf2-9a10d3346bd2.png" style="padding-right:10px;" /></a>
 <a href='https://discordapp.com/users/975004749726376027'><img align="left" alt="Discord" width="32px" src="https://user-images.githubusercontent.com/84177086/211200011-788fe783-a657-470f-88ea-6940b409d960.png" style="padding-right:10px;" /></a>
 <a href='https://telegram.me/anjupriya_v'><img align="left" alt="Telegram" width="32px" src="https://user-images.githubusercontent.com/84177086/211200310-823caa1f-2a7a-4af4-893f-41a69beda419.png" style="padding-right:10px;" /></a>
-<a href='https://www.yourquote.in/anju-priya-v-dhso0/quotes'><img align="left" alt="YourQuote" width="40px" src="https://user-images.githubusercontent.com/84177086/211200872-b912c57e-f406-48a8-910c-c21b635d63ba.png" style="padding-right:10px;" /></a>
+<a href='https://www.yourquote.in/anju-priya-v-dhso0/quotes'><img align="left" alt="YourQuote" width="35px" src="https://user-images.githubusercontent.com/84177086/211200872-b912c57e-f406-48a8-910c-c21b635d63ba.png" style="padding-right:10px;" /></a>
 <br />
 <br />
 
