@@ -1,16 +1,20 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> , I'm Anju Priya - Web Developer
 
- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=510&lines=Love+to+explore+open+source+technologies❤️;Love+to+code+in+Java)](https://git.io/typing-svg)
+
  <img src="https://komarev.com/ghpvc/?username=anjupriya-v&label=Profile%20views&color=0e75b6&style=flat" alt="Anju Priya V" />
  
 - 🎓 Current final year student at CIT
 - 💻 I'm interested in Coding and web development...
-- 😀 Favorite Language is Java
+- 😀 Favorite Language - Java
 - 🌱 I’m currently learning Data Structures and Algorithms...
 - 💞️ Love to build Websites...
 - 📫 Reach out me: anjupriyachennai@gmail.com
-- 🤩 My hobbies - Art journaling and Quotes Writing.
+- 🤩 My hobbies - Quotes Writing and Podcast listening.
 
+### Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anjupriya-v)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Coding Profiles:
 <a href='https://auth.geeksforgeeks.org/user/anjupriyachennai/'><img align="left" alt="GeeksForGeeks" width="30px" src="https://user-images.githubusercontent.com/84177086/211202360-ce770ab5-2fdd-4afb-bcc1-a10794f6003b.png" style="padding-right:10px;" /></a>
@@ -52,10 +56,8 @@
 
 <img  alt="Anju Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
 
-
 ### GitHub Stats
   <img  alt="Anju Priya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
 ### Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjupriya-v&&theme=dark" alt="Anju Priya's Streak Stats" />
-
