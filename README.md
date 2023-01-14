@@ -14,9 +14,15 @@
 - 📫 Reach out me: anjupriyachennai@gmail.com
 - 🤩 My hobbies - Quotes Writing and Podcast listening.
 
+
 ### Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anjupriya-v&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+ 
+<h3> Top Languages</h3>
+
+<img  alt="Anju Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=ffffff"/>
 
 ### Coding Profiles:
 <a href='https://auth.geeksforgeeks.org/user/anjupriyachennai/'><img align="left" alt="GeeksForGeeks" width="30px" src="https://user-images.githubusercontent.com/84177086/211202360-ce770ab5-2fdd-4afb-bcc1-a10794f6003b.png" style="padding-right:10px;" /></a>
@@ -52,10 +58,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <br />
 <br />
- 
-<h3> Top Languages</h3>
 
-<img  alt="Anju Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=ffffff"/>
 
   <h3> Streak Stats</h3>
 
