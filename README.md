@@ -2,7 +2,7 @@
 <img alt='gif' src='https://user-images.githubusercontent.com/84177086/212453138-0665cac6-9479-464f-ad8a-d9db5f4b9491.gif' width='100%'/>
 
 
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> , I'm Anju Priya - Web Developer
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> , I'm Anju Priya - Full stack web developer 👩‍💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=510&lines=Love+to+explore+open+source+technologies❤️;Love+to+code+in+Java)](https://git.io/typing-svg)
 
