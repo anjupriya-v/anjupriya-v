@@ -15,14 +15,16 @@
 - 🤩 My hobbies - Quotes Writing and Podcast listening.
 
 
+<hr />
+
 ### Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anjupriya-v&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
- 
-<h3> Top Languages</h3>
 
-<img  alt="Anju Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=ffffff"/>
+<hr />
+
+
 
 ### Coding Profiles:
 <a href='https://auth.geeksforgeeks.org/user/anjupriyachennai/'><img align="left" alt="GeeksForGeeks" width="30px" src="https://user-images.githubusercontent.com/84177086/211202360-ce770ab5-2fdd-4afb-bcc1-a10794f6003b.png" style="padding-right:10px;" /></a>
@@ -59,12 +61,23 @@
 <br />
 <br />
 
+<hr />
+ 
+<h3> Top Languages</h3>
 
-  <h3> Streak Stats</h3>
+<img  alt="Anju Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=ffffff"/>
+
+<hr />
+
+ <h3> GitHub Stats</h3>
+
+<img  alt="Anju Priya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=ffffff" />
+
+<hr />
+
+<h3> Streak Stats</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjupriya-v&&theme=highcontrast" alt="Anju Priya's Streak Stats" />
 
-  <h3> GitHub Stats</h3>
 
-  <img  alt="Anju Priya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=ffffff" />
   
