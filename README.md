@@ -69,8 +69,7 @@
  
 <h3> Top Languages</h3>
 
-<img  alt="Anju Priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=000000&text_color=ffffff&border_color=ffffff"/>
-
+<img  alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&layout=compact&theme=highcontrast&title_color=ff652f" />
 <hr />
 
  <h3> GitHub Stats</h3>
