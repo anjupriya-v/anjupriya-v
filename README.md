@@ -69,7 +69,7 @@
  
 <h3> Top Languages</h3>
 
-<img  alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&layout=compact&theme=highcontrast&title_color=ff652f" />
+<img  alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjupriya-v&layout=compact&theme=highcontrast&title_color=ff652f&langs_count=7" />
 <hr />
 
  <h3> GitHub Stats</h3>
