@@ -14,7 +14,6 @@
 - 😀 Favorite Language - Java
 - 🌱 I’m currently learning Data Structures and Algorithms...
 - 💞️ Love to build Websites...
-- 📜 View my resume - [Resume](https://drive.google.com/file/d/15l-APeUu9D3S8cxWKbsQb4w2HscgJSZz/view?usp=share_link)
 - 📫 Reach out me: anjupriyachennai@gmail.com
 - 🤩 My hobbies - Quotes Writing and Podcast listening.
 
