@@ -9,7 +9,7 @@
  <img src="https://komarev.com/ghpvc/?username=anjupriya-v&label=Profile%20views&color=0e75b6&style=flat" alt="Anju Priya V" />
 
 
-- 🎓 Current final year student at CIT
+- 🎓 B.E Computer Science Graduate
 - 💻 I'm interested in Coding and web development...
 - 😀 Favorite Language - Java
 - 🌱 I’m currently learning Data Structures and Algorithms...
